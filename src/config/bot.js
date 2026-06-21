@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        // Text users will see (example: "Playing /help | Femboy Bot").
+        // Text users will see (example: "Playing !help | Femboy Bot").
         name: "Made With Lovee :3",
         // Activity type number (0 = Playing).
         type: 3,
